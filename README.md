@@ -7,6 +7,8 @@
 
 - 📫 Reach me at **canushaverma@gmail.com**
 
+- Check out my meduim posts at https://anushavc.medium.com/
+
 - ⚡ Fun fact **I am a certified scuba diver!**
 
 
