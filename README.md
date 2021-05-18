@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Anusha</h1>
 <h3 align="center">An avid ML enthusiast with a flair for front-end development</h3>
 
-- 🌱 I’m currently learning **flask, openCV, react**
+- 🌱 I’m currently learning **flask, openCV**
 
-- 👯 I’m looking to collaborate on **any ML-based or front-end projects**
+- 👯 I’m looking to collaborate on **any ML-based projects**
 
 - 📫 Reach me at **canushaverma@gmail.com**
 
-- Check out my meduim posts at https://anushavc.medium.com/
+- Check out my medium posts at https://anushavc.medium.com/
 
 - ⚡ Fun fact **I am a certified scuba diver!**
 
