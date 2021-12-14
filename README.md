@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Anusha</h1>
-<h3 align="center">An avid ML enthusiast with a flair for front-end development</h3>
+<h3 align="center">An avid ML enthusiast currently exploring NLP</h3>
 
-- 🌱 I’m currently learning **flask, openCV**
+- 🌱 I’m currently learning **flask, openCV, NLP**
 
 - 👯 I’m looking to collaborate on **any ML-based projects**
 
