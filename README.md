@@ -1,6 +1,7 @@
-![alt text](https://github.com/anushavc/anushavc/blob/main/bg2.jpg)
 <h1 align="center">Hi there 👋, I'm Anusha</h1>
 <h3 align="center">An avid ML enthusiast currently exploring NLP</h3>
+
+![alt text](https://github.com/anushavc/anushavc/blob/main/bg2.jpg)
 
 - 🌱 I’m currently learning **flask, openCV, NLP**
 
