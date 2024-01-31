@@ -1,11 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Anusha</h1>
-<h3 align="center">An avid ML enthusiast currently exploring NLP</h3>
+# Hello! 👋 I'm Anusha
+
+## About Me
+I am a Data Scientist with a passion for developing innovative ML solutions to solve real-world problems. With my previous internship experiences in the renewable energy and healthcare sector, I am fluent in designing, implementing, and evaluating ML models using a variety of tools and technologies, including Python, NLP, OpenCV and Scikit-Learn. 
 
 ![alt text](https://github.com/anushavc/anushavc/blob/main/bg2.jpg)
-
-- 🌱 I’m currently learning **flask, openCV, NLP**
-
-- 👯 I’m looking to collaborate on **any ML-based projects**
 
 - 📫 Reach me at **canushaverma@gmail.com**
 
